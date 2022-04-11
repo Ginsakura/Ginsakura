@@ -1,12 +1,23 @@
 
-# Gakutada_Ginsakura
-## 乐正银樱
-一个废物带学生。
-<table><tr><td valign="top" width="50%">
-  <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&include_all_commits=true" />
-</td><td valign="top" width="50%">
-  <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&theme=omni&hide=javascript" />
-</td></tr></table>  
+<table border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+        <tr>
+          <td rowspan="2" width="500">
+            <h1>Gakutada_Ginsakura</h1>
+            <h2>乐正银樱</h2>
+            <p>一个废物带学生</p>
+          </td>
+          <td width="600">
+            <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
+          </td>
+        </tr>
+        <tr>
+          <td width="600">
+            <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact" style="width: 100%"/>
+          </td>
+        </tr>
+      </tbody>
+</table>
 
 <details>
   <summary>技能树</summary>
