@@ -1,9 +1,12 @@
-<img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&include_all_commits=true" />
-<img justify="center" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&theme=omni&hide=javascript" />
 
 # Gakutada_Ginsakura
 ## 乐正银樱
 一个废物带学生。
+<table><tr><td valign="top" width="50%">
+  <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&include_all_commits=true" />
+</td><td valign="top" width="50%">
+  <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&theme=omni&hide=javascript" />
+</td></tr></table>  
 
 <details>
   <summary>技能树</summary>
