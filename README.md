@@ -1,4 +1,5 @@
 <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao-cao-x&hide_border=true&layout=compact&theme=omni&hide=javascript" align="left" style="width: 100%" />
 
 # Gakutada_Ginsakura
 ## 乐正银樱
