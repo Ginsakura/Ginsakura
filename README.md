@@ -19,6 +19,8 @@
       </tbody>
 </table>
 
+<img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
+
 <details>
   <summary>技能树</summary>
 
