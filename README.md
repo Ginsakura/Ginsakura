@@ -6,6 +6,7 @@
             <h1>Gakutada_Ginsakura</h1>
             <h2>乐正银樱</h2>
             <p>一个废物带学生</p>
+            <img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
           </td>
           <td width="600">
             <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
@@ -19,14 +20,16 @@
       </tbody>
 </table>
 
-<img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
+
 
 <details>
   <summary>技能树</summary>
 
 **语言（菜的离谱）**
 + Python
-+ HTML
++ C/C++
++ Java
++ HTML/CSS/JS
 
 **硬件类**
 + PCB设计
@@ -42,5 +45,6 @@
 + FPS苦手（炸毛）
 + Moba苦手（一样炸毛）
 + 非常喜欢Galgame/Visual Novel
++ 东方厨
 
 </details>
