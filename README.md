@@ -28,8 +28,8 @@
 **语言（菜的离谱）**
 + Python
 + C/C++
-+ Java
-+ HTML/CSS/JS
++ Java(JSP)
++ PHP/HTML/CSS/JS
 
 **硬件类**
 + PCB设计
@@ -42,8 +42,8 @@
 
 **游戏类**
 + 音游（狐菜瘾大）
-+ FPS苦手（炸毛）
-+ Moba苦手（一样炸毛）
++ FPS苦手
++ Moba苦手
 + 非常喜欢Galgame/Visual Novel
 + 东方厨
 
