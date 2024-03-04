@@ -25,11 +25,17 @@
 <details>
   <summary>技能树</summary>
 
-**语言（菜的离谱）**
-+ Python
-+ C/C++
-+ Java(JSP)
-+ PHP/HTML/CSS/JS
+**编程语言**
++ Python           (比较熟练)
++ C/C++            (生疏)
++ Java             (会用)
++ PHP              (生疏)
++ HTML/CSS/JS      (会用)
+
+**框架**
++ SSM              (会用)
++ Django           (会用)
++ to be continue ...
 
 **硬件类**
 + PCB设计
@@ -42,8 +48,6 @@
 
 **游戏类**
 + 音游（狐菜瘾大）
-+ FPS苦手
-+ Moba苦手
 + 非常喜欢Galgame/Visual Novel
 + 东方厨
 
