@@ -8,13 +8,13 @@
             <p>一个废物带学生</p>
             <img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
           </td>
-          <td width="600">
-            <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
+          <td width="600" align="center">
+            <img justify="center" align="center" src="https://github-stats.gakutada.xyz/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave" />
           </td>
         </tr>
         <tr>
           <td width="600">
-            <img justify="center" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact" style="width: 100%"/>
+            <img justify="center" align="center" src="http://github-stats.gakutada.xyz/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&hide=lua&theme=synthwave" style="width: 100%"/>
           </td>
         </tr>
       </tbody>
