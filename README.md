@@ -25,17 +25,24 @@
 <details>
   <summary>技能树</summary>
 
-**编程语言**
-+ Python           (比较熟练)
+** 编程语言 **
++ Python           (熟练)
++ C#               (熟练)
 + C/C++            (生疏)
++ Ladder Logic     (生疏)
 + Java             (会用)
 + PHP              (生疏)
 + HTML/CSS/JS      (会用)
 
-**框架**
+** 框架 **
++ WPF              (熟练)
 + SSM              (会用)
 + Django           (会用)
 + to be continue ...
+
+** 嵌入式 **
++ STM32F103        (会用)
++ PLC SMART-200    (生疏)
 
 **硬件类**
 + PCB设计
