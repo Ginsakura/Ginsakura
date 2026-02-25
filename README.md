@@ -24,6 +24,8 @@
 |--------------|--------|
 | Python       |  熟练  |
 | C#           |  熟练  |
+| Embedded C   |  熟练  |
+| Qt C艹       |  熟练  |
 | C/C++        |  熟练  |
 | Ladder Logic |  会用  |
 | Java         |  会用  |
