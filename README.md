@@ -4,7 +4,8 @@
           <td rowspan="2" width="500">
             <h1>Gakutada_Ginsakura</h1>
             <h2>乐正银樱</h2>
-            <p>一个废物带学生</p>
+            <p><del>一个废物带学生</del></p>
+            <p>现在已经是社畜哩(悲)</p>
             <img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
           </td>
           <td width="600" align="center">
