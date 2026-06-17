@@ -1,26 +1,29 @@
 <table border="0" cellspacing="0" cellpadding="0">
-      <tbody>
-        <tr>
-          <td rowspan="2" width="500">
-            <h1>Gakutada_Ginsakura</h1>
-            <h2>乐正银樱</h2>
-            <p><del>一个废物带学生</del></p>
-            <p>现在已经是社畜哩(悲)</p>
-            <img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
-          </td>
-          <td width="600" align="center">
-            <img justify="center" align="center" src="https://github-readme-stats-iota-orcin-21.vercel.app/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave" />
-          </td>
-        </tr>
-        <tr>
-          <td width="600">
-            <img justify="center" align="center" src="http://github-readme-stats-iota-orcin-21.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&hide=lua&theme=synthwave" style="width: 100%"/>
-          </td>
-        </tr>
-      </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="500">
+        <h1>Gakutada_Ginsakura</h1>
+        <h2>乐正银樱</h2>
+        <p><del>一个废物带学生</del></p>
+        <p>现在已经是社畜哩(悲)</p>
+        <a href="https://lcti.hydroroll.team"><img src="/mpl-2.0.svg" alt="License Persona"></a>
+        <img src="https://count.getloli.com/get/@ginsakura?theme=rule34" alt="ginsakura" />
+        <br/>
+      </td>
+      <td width="600" align="center">
+        <img justify="center" align="center" src="https://github-readme-stats-iota-orcin-21.vercel.app/api?username=Ginsakura&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave" />
+      </td>
+    </tr>
+    <tr>
+      <td width="600">
+        <img justify="center" align="center" src="http://github-readme-stats-iota-orcin-21.vercel.app/api/top-langs/?username=ginsakura&hide_border=true&layout=compact&hide=lua&theme=synthwave" style="width: 100%"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## 技能树:
+
 |   编程语言   | 熟练度 |
 |--------------|--------|
 | Python       |  熟练  |
